@@ -1,0 +1,10 @@
+! name: bloombergnewsgoggle
+! description: only bloomberg sources
+! public: false
+! author: wisenai
+
+$discard
+$boost=4,site=news.bloomberglaw.com
+$boost=3,site=news.bloombergtax.com
+$boost=2,site=news.bgov.com
+$boost=1,site=bloomberg.com
