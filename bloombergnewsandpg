@@ -4,7 +4,7 @@
 ! author: wisenai
 
 $discard
-$boost=5,site=bloomberglaw.com/external
+$boost=5,site=bloomberglaw.com
 $boost=4,site=news.bloomberglaw.com
 $boost=3,site=news.bloombergtax.com
 $boost=2,site=news.bgov.com
